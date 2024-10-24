@@ -175,7 +175,7 @@ UC Berkeley, Prof. Pieter Abbeel, 2019
 
 
 ###  Statistical Machine Learning
-Carnegie Mellon University (2016), Prof. Larry Wasserman  
+Carnegie Mellon University, Prof. Larry Wasserman, 2016
 
 ![image](https://github.com/user-attachments/assets/ba4ba579-a388-4a0f-b0d7-55f5946df30c)  
 
@@ -225,7 +225,7 @@ KIT(2020), Dr. Julius Pfrommer
 
 
 ### Probabilistic Reasoning & Machine Learning
-TU Dortmund (2022), Prof. Stefan Harmeling  
+TU Dortmund, Prof. Stefan Harmeling, 2022
 
 ![image](https://github.com/user-attachments/assets/95b5be7d-6d5f-4c0c-9e3a-b4198d3270ac)  
 
@@ -264,14 +264,304 @@ MIT, Dr. Chris Rackauckas, 2021
 
 
 
+### Machine Learning and Bayesian Inference
+University of Cambridge, Dr. Sean Holden  
+
+![image](https://github.com/user-attachments/assets/4e3d49f0-32ed-43cd-b48c-669962c3dd46)
 
 
+YouTube Playlist(15 lectures): https://lnkd.in/dambaytS 
+
+### Spectral Graph Theory
+Iowa State University (2017), Prof. Steve Butler  
+
+![image](https://github.com/user-attachments/assets/39830572-2377-40c9-9383-cf1d7f89146a)  
 
 
+🎥 Lectures (32 Sessions): https://lnkd.in/d-yUHBnU  
+📔 Textbook: An Introduction to the Theory of Graph Spectra
 
 
+### Algorithmic Game Theory  
+Stanford, Prof. Tim Roughgarden  
+
+![image](https://github.com/user-attachments/assets/52533a7d-aff5-4b9b-9f46-2dc23060155a)  
+
+- Mechanism Design Basics 
+- Myerson's Lemma 
+- Algorithmic Mechanism Design 
+- Revenue-Maximizing Auctions 
+- Simple Near-Optimal Auctions 
+- VCG Mechanism 
+- Spectrum Auctions 
+- Beyond Quasi-Linearity 
+- Kidney Exchange, Stable Matching 
+- Selfish Routing and the POA 
+- Network Over-Provisioning
+- Hierarchy of Equilibrium Concepts 
+- Smooth Games 
+- Best-Case and Strong Nash Equilibria 
+- Best-Response Dynamics 
+- No-Regret Dynamics 
+- Swap Regret; Minimax 
+- Pure NE and PLS-Completeness 
+- Mixed NE and PPAD-Completeness
 
 
+🎥 Lectures: https://lnkd.in/dPzxymwg  
 
 
+### Algorithms and Uncertainty
+Prof. Thomas Kesselheim  
+
+![image](https://github.com/user-attachments/assets/50f1c37e-c4bd-4820-b36b-42224a81ccea)  
+
+
+- Online Algorithms
+- Online Learning Algorithms and Online Convex Optimization
+- Markov Decision Processes
+- Stochastic and Robust Optimization
+
+🎥 Lectures: https://lnkd.in/dUZbeSBh
+
+
+### Information Geometry & its Applications
+University of California, Prof. Melvin Leok, San Diego, 2022  
+
+![image](https://github.com/user-attachments/assets/cb8e22e4-8fdc-4461-aa64-36131aaf7aed)
+
+
+🎥 Lectures: https://lnkd.in/drMa8kwe
+
+
+### Advanced Scientific Computing  
+The University of Iceland, Prof. Ing Morris Riedel  
+
+
+![image](https://github.com/user-attachments/assets/1cb8a825-0beb-40a7-8777-491a7a7fe34e)  
+
+High Performance Computing
+- Parallel Programming with MPI 
+- Parallelization Fundamentals 
+- Advanced MPI Techniques 
+- Parallel Algorithms & Data Structures 
+- Parallel Programming with OpenMP 
+- Hybrid Programming & Patterns 
+- Debugging & Profiling & Performance Analysis 
+- Accelerators & Graphical Processing Units 
+- Parallel & Scalable Machine & Deep Learning 
+- HPC in Health & Neurosciences 
+- Computational Fluid Dynamics & Finite Elements 
+- Systems Biology & Bioinformatics 
+- Molecular Systems & Material Sciences 
+- Terrestrial Systems & Climate
+
+
+🎥 2024 Lectures (ongoing): https://lnkd.in/di9AMF8W   
+🎥 2023 Lectures: https://lnkd.in/dShK79Nc  
+🎥 2022 Lectures: https://lnkd.in/d-DtqtwR
+
+
+### Deep Learning in Scientific Computing
+ETH Zürich, Prof. Siddhartha Mishra, Dr. Benjamin Moseley, 2023  
+
+![image](https://github.com/user-attachments/assets/c468b2e5-684a-4285-a920-0762b2c18b9a)  
+
+- Introduction to Deep Learning
+- Physics-Informed Neural Networks
+- Operator Learning
+- Neural Operators
+- Fourier Neural Operators and Convolutional Neural Operators
+- Differentiable Physics
+
+🎥 Course lectures: https://lnkd.in/dQ2fX2-X
+
+
+### Topology and Geometry  
+Prof. Tadashi Tokieda  
+
+![image](https://github.com/user-attachments/assets/f33e4d2f-9aba-48fe-bec2-9e0fa8986a81)  
+
+🎥 Lectures: https://lnkd.in/dBMdFJnw
+
+
+### Deep Reinforcement Learning
+ UC Berkeley,  Prof. Sergey Levine  
+
+![image](https://github.com/user-attachments/assets/2721517d-9f3e-4f53-89b9-875f411c2ffd)
+
+
+ In addition to the standard RL topics, the course also includes:
+- RL and language models
+- Offline RL
+- Inverse RL
+- RL as probabilistic inference
+- Uncertainty and RL
+- Transfer learning and meta learning
+
+🎥 Lectures(2021-2023): https://lnkd.in/dzvRMCaQ
+
+
+### Information Theory
+Harvard, Prof. Gregory Falkovich, 2022  
+
+![image](https://github.com/user-attachments/assets/4b999c80-13b6-4f30-8a66-81b87438f61c)  
+
+🎥 Lectures: https://lnkd.in/d3ubEZz7  
+📔 Textbook (Physical Nature of Information): https://lnkd.in/dnsYfTes
+
+
+### Bayesian Statistics 
+Virginia Tech,  Prof. Scotland Leman, 2023  
+
+![image](https://github.com/user-attachments/assets/41294c78-8162-4390-a9f1-9619e006a08b)  
+
+
+- Philosophy: What is probability?
+- Fisher vs Neyman vs Jeffreys.
+- The Likelihood Principle
+- Basic Bayesian constructions: Likelihoods, priors and posteriors
+- Exponential families and conjugate priors
+- Asymptotics, Bayesian t-tests, mixture models, hierarchical modeling, etc..
+- Bayesian sequential updating
+- More on priors: Jeffreys, Reference, Objective, Subjective, etc...
+- Simulation procedures: Gibbs, Metropolis, etc...
+- Model Selection: Theory and Computational Approaches
+
+
+🎥 Video lectures for the 2023 course and also lectures for the past semesters: https://lnkd.in/dbWHtW_4  
+🎥 First lecture: https://lnkd.in/dj2eF5rG
+
+
+### Random Matrices and Machine Learning
+Saarland University, Prof. Roland Speicher, 2023  
+
+![image](https://github.com/user-attachments/assets/d60af264-e703-4f35-9f5b-3f686b68b9ba)  
+
+🎥 Recorded videos (29 lectures): https://lnkd.in/dANfW7EC
+
+
+### Computational Topology
+University of Utah, Prof. Bei Wang, 2021  
+
+![image](https://github.com/user-attachments/assets/cf440b04-cb01-4691-a0d2-19c7eb4b09e9)  
+
+
+- Basic concepts (graphs, connected components, topological space, manifold, point cloud samples)
+- Combinatorial structures on point cloud data (simplicial complexes)
+- New techniques in dimension reduction (circular coordinates, etc.)
+- Clustering (topology-based data partition, classification)
+- Homology and persistent homology
+- Topological signatures for classification
+- Structural inference and reconstruction from data
+- Topological algorithms for massive data
+- Deep learning with TDA
+- Multivariate and high-dimensional data analysis
+- Topological data analysis for visualization (vector fields, topological structures)
+- Practical applications of TDA
+
+🎥 Playlist on YouTube (28 Lectures) : https://lnkd.in/d63Nsv78
+
+
+### Optimal Transport
+Prof. Brittany Hamfeldt 
+
+![image](https://github.com/user-attachments/assets/13feaab0-c34c-420f-ac97-27312dcca17b)  
+
+🎥 Video Lectures: https://lnkd.in/ddc-Qv8b
+
+
+### Group Theory
+Prof. Richard Borcherds  
+
+![image](https://github.com/user-attachments/assets/4566a212-d4e8-49e6-9ffe-765f60beb12d)
+
+🎥 Lectures: https://lnkd.in/dEPHHiiE
+
+
+### Manifold Learning, Optimization and Information Geometry
+Politecnico di Milano 2022
+
+![image](https://github.com/user-attachments/assets/59fde121-bf22-4d37-93a5-8bcef4a4af80)  
+
+🎥 Lectures: https://lnkd.in/gSgt7TMz  
+
+
+### Random Matrix Theory
+King's College London, Dr Pierpaolo Vivo  
+
+![image](https://github.com/user-attachments/assets/61e34a9c-3d6a-4c10-9ef4-bb9941e6a7bf)  
+
+🎥 Lectures : https://lnkd.in/duEnYDRU
+
+
+### Topological Data Analysis
+Colorado State University, Henry Adams, 2021
+
+![image](https://github.com/user-attachments/assets/2da24886-19c9-4db3-9540-ede0b4b7b2e3)  
+
+🎥 Videos (27 short lectures) : https://lnkd.in/d8AJ2kKD
+
+
+### Matrix Calculus for Machine Learning and Beyond
+MIT,  Prof. Alan Edelman, Prof. Steven G. Johnson, 2023 
+
+![image](https://github.com/user-attachments/assets/7f6bff74-51ef-4caa-8f6c-62cd2d02abfe)  
+
+🎥 YouTube (8 lectures): https://lnkd.in/dEwFJ-ww
+
+
+### Probabilistic Machine Learning
+University of Tübingen, Dr. Philipp Hennig, 2023  
+
+![image](https://github.com/user-attachments/assets/ec7dbeee-c289-4c70-962e-40e7922aa206)  
+
+
+- Reasoning Under Uncertainty
+- Continuous Random Variables
+- Exponential Families
+- Gaussian Probability Distributions
+- Parametric Regression
+- Gaussian Processes
+- Understanding Gaussian Processes
+- GP Regression
+- Understanding Kernels and Gaussian Processes
+- The role of Linear Algebra in Gaussian Processes
+- Computation and Inference
+- Logistic Regression
+- GP Classification
+- Deep Learning
+- Probabilistic Deep Learning
+- Uncertainty in Deep Learning
+- Uses of Uncertainty for Deep Learning
+- Gauss-Markov Models
+- Parameter Inference
+- Variational Inference
+
+
+🎥 Lectures (25 lectures): https://lnkd.in/dBKgc2vM  
+📔 Slides: https://lnkd.in/d7Tq-zf9  
+
+
+### Discrete Differential Geometry
+Carnegie Mellon Universit  
+
+![image](https://github.com/user-attachments/assets/baf9fc2a-14a8-4627-b42c-651fc81d72f9)
+
+🎥 Lectures : https://lnkd.in/gvtWm5Xd
+
+### Applied Numerical Algorithms
+MIT, Prof. Justin Solomon, 2023
+
+![image](https://github.com/user-attachments/assets/9dbd7f68-2c58-447b-a93f-f6ee483b7118)
+
+🎥 Lectures : https://lnkd.in/eq_jtkeb
+
+### Shape Analysis 
+MIT, Prof. Justin Solomon
+
+![image](https://github.com/user-attachments/assets/3f5e7038-d0ee-48d9-b5ab-e41391c97f41)
+
+
+🎥 Lectures : https://www.youtube.com/watch?v=VjyBp6PrvB4
 
