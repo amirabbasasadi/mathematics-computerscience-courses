@@ -174,6 +174,98 @@ UC Berkeley, Prof. Pieter Abbeel, 2019
 
 
 
+###  Statistical Machine Learning
+Carnegie Mellon University (2016), Prof. Larry Wasserman  
+
+![image](https://github.com/user-attachments/assets/ba4ba579-a388-4a0f-b0d7-55f5946df30c)  
+
+
+- Function Spaces
+- Concentration of Measure
+- Linear Regression
+- Non-Parametric Regression
+- Trend Filtering
+- Linear Classification
+- Non-Parametric Classification
+- Minimax Theory
+- Non-Parametric Bayes
+- Boosting
+- Clustering
+- Graphical Models
+- Dimension Reduction
+- Random Matrix Theory
+- Differential Privacy
+
+🎥 YouTube Playlist (24 lectures) : https://lnkd.in/dAaPqC5W  
+
+
+
+
+### Optimization Methods for Machine Learning and Engineering
+KIT(2020), Dr. Julius Pfrommer  
+
+![image](https://github.com/user-attachments/assets/d644a17b-ffd6-49f5-a416-a970a68a27ff)  
+
+- Introduction, Convexity and Gradient Descent
+- Newton’s Method
+- Inequality Constrained Optimization
+- Equality Constrained Optimization
+- Applications: Mechanical Design, Model-Predictive Control, Optimization in Finance
+- Automatic Differentiation and Neural Networks
+- Vector Spaces, Norms and the Projection Theorem
+- Fast First-Order Optimization
+- Duality and Primal-Dual Algorithms
+- SVM and the Reproducing Kernel Hilbert Space
+- Conic Programming
+- Alternating Methods and the EM Algorithm
+- Applications: Graph Problems, Computer Vision and Generalized Low-Rank Models
+- Gradient-Free and Non-Convex Optimization
+
+🎥 Lectures on YouTube : https://lnkd.in/di4XwuT6  
+
+
+### Probabilistic Reasoning & Machine Learning
+TU Dortmund (2022), Prof. Stefan Harmeling  
+
+![image](https://github.com/user-attachments/assets/95b5be7d-6d5f-4c0c-9e3a-b4198d3270ac)  
+
+🎥 Video lectures (28 sessions): https://lnkd.in/dnhCuKUG
+
+
+### Parallel Computing and Scientific Machine Learning
+MIT, Dr. Chris Rackauckas, 2021  
+
+![image](https://github.com/user-attachments/assets/ece90288-73d3-4a0f-ad5c-af4163bfe572)  
+
+
+- Getting Started with Julia
+- Optimizing Serial Code
+- Physics-Informed Neural Networks
+- Introduction to Discrete Dynamical Systems
+- The Basics of Single Node Parallel Computing
+- Styles of Parallelism
+- Ordinary Differential Equations
+- Forward-Mode Automatic Differentiation
+- Solving Stiff Ordinary Differential Equations
+- Basic Parameter Estimation, Reverse-Mode AD, and Inverse Problems
+- Differentiable Programming and Neural Differential Equations
+- MPI for Distributed Computing
+- Mathematics of ML and HPC
+- GPU Computing
+- Partial Differential Equations and Convolutional Neural Networks
+- Probabilistic Programming
+- Global Sensitivity Analysis
+- Code Profiling and Optimization
+- Uncertainty Programming and Generalized Uncertainty Quantification
+ 
+🎥 Video Lectures: https://lnkd.in/gwDnHj-N  
+📔 Lecture notes as an online book: https://book.sciml.ai/
+
+
+
+
+
+
 
 
 
