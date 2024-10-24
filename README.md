@@ -5,10 +5,9 @@ A collection of awesome mathematics and computer science courses
 ## Courses
 
 ### Learning in Games and Games in Learning
+University of Pennsylvania, Prof. Aaron Roth, 2023
 ![image](https://github.com/user-attachments/assets/a1d55878-2c1a-4ccc-9e89-744c92fd7521)  
-University of Pennsylvania, Prof. Aaron Roth, 2023  
-A mathematical course focusing on the interplay between game theory and machine learning  
-
+A mathematical course focusing on the interplay between game theory and machine learning:
 - Introduction to sequential learning
 - Halving algorithm
 - Follow the perturbed leader
