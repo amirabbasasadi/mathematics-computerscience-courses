@@ -4,6 +4,27 @@ A collection of some useful mathematics and computer science courses
 
 ## Courses
 
+### Convex Optimization
+Stanford, 2023  
+
+![image](https://github.com/user-attachments/assets/a30ba279-6fd2-4045-893b-b1535c1e0bdb)  
+
+- Convex sets
+- Convex functions
+- Convex optimization problems
+- Duality
+- Approximation and fitting
+- Statistical estimation
+- Geometric problems
+- Numerical linear algebra background
+- Unconstrained minimization
+- Equality constrained minimization
+- Interior-point methods
+
+🎥 Lectures: https://www.youtube.com/playlist?list=PLoROMvodv4rMJqxxviPa4AmDClvcbHi6h  
+📔 Textbook : https://stanford.edu/~boyd/cvxbook/  
+
+
 ### Learning in Games and Games in Learning
 University of Pennsylvania, Prof. Aaron Roth, 2023  
 
