@@ -1,11 +1,36 @@
-# Advanced Mathematics / Computer Science Courses 
+# Mathematics / Computer Science Courses 
 A collection of some useful mathematics and computer science courses 
 
 
 ## Courses
 
+### Model-Based Image and Signal Processing
+Purdue University, Prof. Charles A. Bouman, 2020  
+
+![image](https://github.com/user-attachments/assets/2a506822-0dba-4f8d-9c2f-994913b6111f)  
+
+- Probability
+- Causal Gaussian Models
+- Non-Causal Gaussian Models
+- MAP with Gaussian Priors
+- Non-Gaussian Markov Random Fields
+- Non-Gaussian MAP
+- Majorization
+- Constrained Optimization
+- Plug and Play
+- EM Algorithm
+- Markov Chains and HMMs
+- General MRFs
+- Stochastic Simulation
+- MAP Segmentation
+
+🎥 Lectures : https://www.youtube.com/playlist?list=PL3ZrjaBngMS0mTSoMsy7P6rTFSgsmsMw3  
+📔 Textbook: https://engineering.purdue.edu/~bouman/publications/FCI-book/  
+
+
+
 ### Convex Optimization
-Stanford, 2023  
+Stanford, Prof. Stephen Boyd, 2023  
 
 ![image](https://github.com/user-attachments/assets/a30ba279-6fd2-4045-893b-b1535c1e0bdb)  
 
