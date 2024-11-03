@@ -4,6 +4,26 @@ A collection of some useful mathematics and computer science courses
 
 ## Courses
 
+
+### Reinforcement Learning
+Stanford, Prof. Emma Brunskill, 2024  
+
+![image](https://github.com/user-attachments/assets/96785d68-6730-49d0-9d4a-b91a2009ebac)  
+
+- Introduction to Reinforcement Learning
+- Tabular MDP planning
+- Policy Evaluation
+- Q learning and Function Approximation
+- Policy Search
+- Offline RL
+- Exploration
+- Multi-Agent Games
+- Value Alignment
+
+ 
+🎥 Lectures: https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX  
+
+
 ### Model-Based Image and Signal Processing
 Purdue University, Prof. Charles A. Bouman, 2020  
 
