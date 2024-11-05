@@ -4,6 +4,27 @@ A collection of some useful mathematics and computer science courses
 
 ## Courses
 
+### Numerics of Machine Learning
+University of Tübingen, 2023  
+
+![image](https://github.com/user-attachments/assets/8dce5eb8-5d27-47b0-9cbb-e5def426f103)  
+
+
+- Numerical Linear Algebra
+- Scaling Gaussian Processes
+- Computation-aware Gaussian Processes
+- State Space Models
+- Solving Ordinary Differential Equations
+- Probabilistic Numerical ODE Solvers
+- Partial Differential Equations
+- Monte Carlo
+- Bayesian Quadrature
+- Optimization for Deep Learning
+- Second-order Optimization for Deep Learning
+- Uncertainty in Deep Learning
+
+🎥 Lectures : https://www.youtube.com/playlist?list=PL05umP7R6ij2lwDdj7IkuHoP9vHlEcH0s   
+
 
 ### Reinforcement Learning
 Stanford, Prof. Emma Brunskill, 2024  
