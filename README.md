@@ -4,6 +4,15 @@ A collection of some useful mathematics and computer science courses
 
 ## Courses
 
+### Multi-Agent Reinforcement Learning
+Dr. Stefano V. Albrecht, 2023  
+![image](https://github.com/user-attachments/assets/465dd8a7-25c2-4f5b-b95d-a6a0f934587b)  
+
+
+🎥 Lectures: [https://www.youtube.com/playlist?list=PLkoCa1tf0XjCU6GkAfRCkChOOSH6-JC_2](https://www.youtube.com/playlist?list=PLkoCa1tf0XjCU6GkAfRCkChOOSH6-JC_2)  
+📔 Textbook : http://www.marl-book.com/ 
+
+
 ### Numerics of Machine Learning
 University of Tübingen, 2023  
 
