@@ -4,6 +4,29 @@ A collection of some useful mathematics and computer science courses
 
 ## Courses
 
+
+### Reinforcement Learning Theory 
+Prof. Csaba Szepesvári, University of Alberta, 2022  
+![image](https://github.com/user-attachments/assets/ec632aea-95ad-4077-ae44-796af53b9326)  
+
+
+- MDP, Fundamental Theorem
+- Value and Policy Iteration
+- Local Planning
+- Function Approximation
+- Approximate Policy Iteration
+- Planning Complexity, TensorPlan
+- Lower Bound for API and POLITEX
+- Policy Search
+- Batch RL
+- Online RL
+
+
+🎥 Lectures: [https://www.youtube.com/playlist?list=PLQCZ7_TRKVIzODPXorEyvhCk25TlcTANC
+](https://www.youtube.com/playlist?list=PLQCZ7_TRKVIzODPXorEyvhCk25TlcTANC)   
+📔 webpage : https://rltheory.github.io/
+
+
 ### Multi-Agent Reinforcement Learning
 Dr. Stefano V. Albrecht, 2023  
 ![image](https://github.com/user-attachments/assets/465dd8a7-25c2-4f5b-b95d-a6a0f934587b)  
