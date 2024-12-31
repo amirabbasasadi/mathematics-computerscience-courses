@@ -4,6 +4,26 @@ A collection of some useful mathematics and computer science courses
 
 ## Courses
 
+### Deep Learning for Computer Vision
+Prof. Justin Johnson, University of Michigan, 2019
+
+![image](https://github.com/user-attachments/assets/371501d1-21d4-4b2a-bba9-c8e51d2dd62a)
+
+- Linear classifiers
+- Stochastic gradient descent
+- Fully-connected networks
+- Convolutional networks
+- Recurrent networks
+- Attention and transformers
+- Object detection
+- Image segmentation
+- Video classification
+- Generative models (GANs, VAEs, autoregressive models)
+- Reinforcement Learning
+
+🎥 Lectures: https://youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r 
+
+
 ### High-Dimensional Probability
 Roman Vershynin
 
