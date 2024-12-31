@@ -4,12 +4,28 @@ A collection of some useful mathematics and computer science courses
 
 ## Courses
 
+### Geometric Deeep Learning
+African Master’s in Machine Intelligence, 2021
+
+![image](https://github.com/user-attachments/assets/105b669d-d05d-4742-b1c6-1b6ecf7c274e)
+
+
+- High-Dimensional Learning
+- Geometric Priors
+- Graphs & Sets
+- Grids
+- Groups
+- Geodesics & Manifolds
+- Gauges
+  
+🎥 Lectures: https://youtube.com/playlist?list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C                 
+📔 webpage : https://geometricdeeplearning.com
+
 
 ### Machine Learning with Graphs
 Prof. Jure Leskovec, Stanford University, 2021
 
 ![image](https://github.com/user-attachments/assets/bc56580c-b0a2-459f-846a-0d6f40ac2f74)
-
 
 🎥 Lectures: https://youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn
 
