@@ -4,11 +4,28 @@ A collection of some useful mathematics and computer science courses
 
 ## Courses
 
-### Geometric Deeep Learning
-African Master’s in Machine Intelligence, 2021
+## Deep Generative Models
+Prof. Stefano Ermon, Stanford University, 2023
+
+![image](https://github.com/user-attachments/assets/ead0b70a-a22f-4c6b-b008-45c961b0b078)
+
+- Autoregressive Models
+- Maximum Likelihood Learning
+- Variational AutoEncoders (VAEs)
+- Normalizing Flows
+- Generative Adversarial Networks (GANs)
+- Energy Based Models (EBMs)
+- Score Based Models
+- Evaluation of Generative Models
+
+🎥 Lectures: https://youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8      
+📔 Course page containing lecture notes: https://deepgenerativemodels.github.io
+
+
+### Geometric Deep Learning
+African Master’s in Machine Intelligence, 2022
 
 ![image](https://github.com/user-attachments/assets/105b669d-d05d-4742-b1c6-1b6ecf7c274e)
-
 
 - High-Dimensional Learning
 - Geometric Priors
@@ -31,9 +48,9 @@ Prof. Jure Leskovec, Stanford University, 2021
 
 
 ### Reinforcement Learning Theory 
-Prof. Csaba Szepesvári, University of Alberta, 2022  
-![image](https://github.com/user-attachments/assets/ec632aea-95ad-4077-ae44-796af53b9326)  
+Prof. Csaba Szepesvári, University of Alberta, 2022 
 
+![image](https://github.com/user-attachments/assets/ec632aea-95ad-4077-ae44-796af53b9326)  
 
 - MDP, Fundamental Theorem
 - Value and Policy Iteration
@@ -46,7 +63,6 @@ Prof. Csaba Szepesvári, University of Alberta, 2022
 - Batch RL
 - Online RL
 
-
 🎥 Lectures: [https://www.youtube.com/playlist?list=PLQCZ7_TRKVIzODPXorEyvhCk25TlcTANC
 ](https://www.youtube.com/playlist?list=PLQCZ7_TRKVIzODPXorEyvhCk25TlcTANC)   
 📔 webpage : https://rltheory.github.io/
@@ -55,7 +71,6 @@ Prof. Csaba Szepesvári, University of Alberta, 2022
 ### Multi-Agent Reinforcement Learning
 Dr. Stefano V. Albrecht, 2023  
 ![image](https://github.com/user-attachments/assets/465dd8a7-25c2-4f5b-b95d-a6a0f934587b)  
-
 
 🎥 Lectures: [https://www.youtube.com/playlist?list=PLkoCa1tf0XjCU6GkAfRCkChOOSH6-JC_2](https://www.youtube.com/playlist?list=PLkoCa1tf0XjCU6GkAfRCkChOOSH6-JC_2)  
 📔 Textbook : http://www.marl-book.com/ 
