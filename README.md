@@ -4,11 +4,104 @@ A collection of some useful mathematics and computer science courses
 
 ## Courses
 
+### Deep Learning for Computer Vision
+Prof. Justin Johnson, University of Michigan, 2019
+
+![image](https://github.com/user-attachments/assets/371501d1-21d4-4b2a-bba9-c8e51d2dd62a)
+
+- Linear classifiers
+- Stochastic gradient descent
+- Fully-connected networks
+- Convolutional networks
+- Recurrent networks
+- Attention and transformers
+- Object detection
+- Image segmentation
+- Video classification
+- Generative models (GANs, VAEs, autoregressive models)
+- Reinforcement Learning
+
+🎥 Lectures: https://youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r 
+
+
+### High-Dimensional Probability
+Roman Vershynin
+
+![image](https://github.com/user-attachments/assets/37f50b44-67e2-4136-abb8-a74857ca56ae)
+
+🎥 Lectures: https://youtube.com/playlist?list=PLPjEEUWIWhQV7X6dXfrVP3w0KBBLBVJ0j  
+📔 Textbook : https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.html
+
+
+### Deep Unsupervised Learning
+Prof. Pieter Abbeel, UC Berkeley, 2024
+
+![image](https://github.com/user-attachments/assets/eb151b94-f8fe-4bb5-8d0d-28525eee6532)
+
+- Autoregressive Models
+- Flow Models
+- Latent Variable Models & Variational AutoEncoders (VAEs)
+- Generative Adversarial Networks (GANs)
+- Diffusion Models
+- Self-Supervised Learning
+- Large Language Models (LLMs)
+- Generative Video
+- Semisupervised Learning & Unsupervised Distribution Alignment
+- Generative Modeling for Science
+- Neural Radiance Fields
+- Multimodal Models
+- Parallelization
+
+🎥 Lectures: https://youtube.com/playlist?list=PLwRJQ4m4UJjPIvv4kgBkvu_uygrV3ut_U
+
+
+### Deep Generative Models
+Prof. Stefano Ermon, Stanford University, 2023
+
+![image](https://github.com/user-attachments/assets/ead0b70a-a22f-4c6b-b008-45c961b0b078)
+
+- Autoregressive Models
+- Maximum Likelihood Learning
+- Variational AutoEncoders (VAEs)
+- Normalizing Flows
+- Generative Adversarial Networks (GANs)
+- Energy Based Models (EBMs)
+- Score Based Models
+- Evaluation of Generative Models
+
+🎥 Lectures: https://youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8      
+📔 Course page containing lecture notes: https://deepgenerativemodels.github.io
+
+
+### Geometric Deep Learning
+African Master’s in Machine Intelligence, 2022
+
+![image](https://github.com/user-attachments/assets/105b669d-d05d-4742-b1c6-1b6ecf7c274e)
+
+- High-Dimensional Learning
+- Geometric Priors
+- Graphs & Sets
+- Grids
+- Groups
+- Geodesics & Manifolds
+- Gauges
+  
+🎥 Lectures: https://youtube.com/playlist?list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C                 
+📔 webpage : https://geometricdeeplearning.com
+
+
+### Machine Learning with Graphs
+Prof. Jure Leskovec, Stanford University, 2021
+
+![image](https://github.com/user-attachments/assets/bc56580c-b0a2-459f-846a-0d6f40ac2f74)
+
+🎥 Lectures: https://youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn
+
 
 ### Reinforcement Learning Theory 
-Prof. Csaba Szepesvári, University of Alberta, 2022  
-![image](https://github.com/user-attachments/assets/ec632aea-95ad-4077-ae44-796af53b9326)  
+Prof. Csaba Szepesvári, University of Alberta, 2022 
 
+![image](https://github.com/user-attachments/assets/ec632aea-95ad-4077-ae44-796af53b9326)  
 
 - MDP, Fundamental Theorem
 - Value and Policy Iteration
@@ -21,7 +114,6 @@ Prof. Csaba Szepesvári, University of Alberta, 2022
 - Batch RL
 - Online RL
 
-
 🎥 Lectures: [https://www.youtube.com/playlist?list=PLQCZ7_TRKVIzODPXorEyvhCk25TlcTANC
 ](https://www.youtube.com/playlist?list=PLQCZ7_TRKVIzODPXorEyvhCk25TlcTANC)   
 📔 webpage : https://rltheory.github.io/
@@ -30,7 +122,6 @@ Prof. Csaba Szepesvári, University of Alberta, 2022
 ### Multi-Agent Reinforcement Learning
 Dr. Stefano V. Albrecht, 2023  
 ![image](https://github.com/user-attachments/assets/465dd8a7-25c2-4f5b-b95d-a6a0f934587b)  
-
 
 🎥 Lectures: [https://www.youtube.com/playlist?list=PLkoCa1tf0XjCU6GkAfRCkChOOSH6-JC_2](https://www.youtube.com/playlist?list=PLkoCa1tf0XjCU6GkAfRCkChOOSH6-JC_2)  
 📔 Textbook : http://www.marl-book.com/ 
@@ -182,8 +273,8 @@ A course on geometric aspects of deep learning theory:
 - Symmetries of overparameterized ReLU neural networks, optimization, and generalization
 - Algorithmic computation of topological invariants of decision boundaries/regions
 
-🎥 YouTube: https://lnkd.in/dJMZr9x9  
-📔 Course page : https://lnkd.in/dRvXhna4
+🎥 YouTube: https://youtube.com/playlist?list=PL0NRmB0fnLJSEXFQHGF0q5JcedxTqK4AJ&si=G0rk4GBgywt6kypK  
+📔 Course page : https://sites.google.com/bc.edu/eli-grigsby/mt875-mechanistic-interpretability
 
 
 ### Probabilistic Programming 
@@ -208,8 +299,8 @@ University of British Columbia, Dr. Frank Wood, 2021
 - Alternative Variational Bounds
 - Reparametrization and Normalizing Flows
 
-🎥 25 lectures on YouTube: https://lnkd.in/dW54b6nD  
-📔 An Introduction to Probabilistic Programming: https://lnkd.in/dg5awGZf
+🎥 25 lectures on YouTube: https://youtube.com/playlist?list=PLRBUAK6di_6XlF7KAZBPRgcP0zD5sVXcN&si=9hjsRE1bav7vTqbG  
+📔 An Introduction to Probabilistic Programming: https://arxiv.org/abs/1809.10756
 
 
 ### Learning and Reasoning with Bayesian Networks
@@ -238,7 +329,7 @@ UCLA, Prof. Adnan Darwiche
 - Explaining Classifiers
 
 
-🎥 YouTube Playlist(32 lectures + 4 additional lectures on causality): https://lnkd.in/dxtaVtRv  
+🎥 YouTube Playlist(32 lectures + 4 additional lectures on causality): https://youtube.com/playlist?list=PLlDG_zCuBub6ywAIrM1DfJp8xaeVjyvwx  
 📔 Textbook: Modeling and Reasoning with Bayesian Networks, Adnan Darwiche
 
 
@@ -264,7 +355,7 @@ ENS Paris-Saclay, Dr. Julien Mairal, Dr. Jean-Philippe Vert
 - Characteristic kernels
 
 
-🎥 YouTube Playlist (25 lectures): https://lnkd.in/dCBTdGSN  
+🎥 YouTube Playlist (25 lectures): https://www.youtube.com/playlist?list=PLD93kGj6_EdrkNj27AZMecbRlQ1SMkp_o  
 
 
 ### Advanced Robotics
@@ -289,7 +380,7 @@ UC Berkeley, Prof. Pieter Abbeel, 2019
 - RL : Policy Gradients, Off-policy RL, Model-based RL
 - Physics Simulation
 
-🎥 YouTube Playlist (24 lectures) : https://lnkd.in/dQmMu8CJ  
+🎥 YouTube Playlist (24 lectures) : https://youtube.com/playlist?list=PLwRJQ4m4UJjNBPJdt8WamRAt4XKc639wF&si=LrZXaiXafs6Qj07x  
 
 
 
@@ -315,7 +406,7 @@ Carnegie Mellon University, Prof. Larry Wasserman, 2016
 - Random Matrix Theory
 - Differential Privacy
 
-🎥 YouTube Playlist (24 lectures) : https://lnkd.in/dAaPqC5W  
+🎥 YouTube Playlist (24 lectures) : https://youtube.com/playlist?list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE&si=T5N31V-7ZPA_onXN  
 
 
 
@@ -340,7 +431,7 @@ KIT(2020), Dr. Julius Pfrommer
 - Applications: Graph Problems, Computer Vision and Generalized Low-Rank Models
 - Gradient-Free and Non-Convex Optimization
 
-🎥 Lectures on YouTube : https://lnkd.in/di4XwuT6  
+🎥 Lectures on YouTube : https://youtube.com/playlist?list=PLdkTDauaUnQpzuOCZyUUZc0lxf4-PXNR5&si=x3fYVDBXH7Y4TAmY  
 
 
 ### Probabilistic Reasoning & Machine Learning
@@ -348,7 +439,7 @@ TU Dortmund, Prof. Stefan Harmeling, 2022
 
 ![image](https://github.com/user-attachments/assets/95b5be7d-6d5f-4c0c-9e3a-b4198d3270ac)  
 
-🎥 Video lectures (28 sessions): https://lnkd.in/dnhCuKUG
+🎥 Video lectures (28 sessions): https://youtube.com/playlist?list=PLzrCXlf6ypbzDYKDchKfM-I9s20mFCL0q&si=IuKihyN1QdWIuY8d
 
 
 ### Parallel Computing and Scientific Machine Learning
@@ -377,7 +468,7 @@ MIT, Dr. Chris Rackauckas, 2021
 - Code Profiling and Optimization
 - Uncertainty Programming and Generalized Uncertainty Quantification
  
-🎥 Video Lectures: https://lnkd.in/gwDnHj-N  
+🎥 Video Lectures: https://youtube.com/playlist?list=PLCAl7tjCwWyGjdzOOnlbGnVNZk0kB8VSa&si=-5MJhyhshyQ1SpcQ  
 📔 Lecture notes as an online book: https://book.sciml.ai/
 
 
@@ -389,7 +480,7 @@ University of Cambridge, Dr. Sean Holden
 ![image](https://github.com/user-attachments/assets/4e3d49f0-32ed-43cd-b48c-669962c3dd46)
 
 
-YouTube Playlist(15 lectures): https://lnkd.in/dambaytS 
+YouTube Playlist(15 lectures): https://youtube.com/playlist?list=PLdLk2RYEiAhp9Slj6F_LCMXUv7_Fi3V_Y&si=E-A3Igj-C3xrQJU2 
 
 ### Spectral Graph Theory
 Iowa State University (2017), Prof. Steve Butler  
@@ -397,7 +488,7 @@ Iowa State University (2017), Prof. Steve Butler
 ![image](https://github.com/user-attachments/assets/39830572-2377-40c9-9383-cf1d7f89146a)  
 
 
-🎥 Lectures (32 Sessions): https://lnkd.in/d-yUHBnU  
+🎥 Lectures (32 Sessions): https://www.youtube.com/playlist?list=PLi4h0n4UP8d9VGPqO8vLQga9ZApO65TLW  
 📔 Textbook: An Introduction to the Theory of Graph Spectra
 
 
@@ -426,8 +517,37 @@ Stanford, Prof. Tim Roughgarden
 - Pure NE and PLS-Completeness 
 - Mixed NE and PPAD-Completeness
 
+🎥 Lectures: https://youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4&si=7r52R_RF8miNr_N2  
 
-🎥 Lectures: https://lnkd.in/dPzxymwg  
+
+### Advanced Mechanism Design
+Stanford, Prof. Tim Roughgarden  
+
+![image](https://github.com/user-attachments/assets/ce009b28-9401-4358-b553-92e9126aa2cd)
+
+- Ascending and Ex Post Incentive Compatible Mechanisms
+- Unit-Demand Bidders and Walrasian Equilibria
+- The Crawford-Knoer Auction
+- The Clinching Auction
+- The Gross Substitutes Condition
+- Gross Substitutes-Welfare Maximization in Polynomial Time
+- Submodular Valuations
+- MIR and MIDR Mechanisms
+- MIDR Mechanisms via Scaling Algorithms
+- Coverage Valuations and Convex Rounding
+- Undominated Implementations and the Shrinking Auction
+- Bayesian Incentive-Compatibility
+- Black Box Reductions
+- The Price of Anarchy in Simple Auctions
+- The Price of Anarchy of Bayes-Nash Equilibria
+- The Price of Anarchy in First-Price Auctions
+- Demand Reduction in Multi-Unit Auctions Revisited
+- Beyond Smoothness and XOS Valuations
+- Multi-Parameter Revenue-Maximization
+- Interim Rules and Border’s Theorem
+- Characterization of Revenue-Maximizing Auctions
+
+🎥 Lectures: https://youtube.com/playlist?list=PLEGCF-WLh2RI77PL4gwLld_OU9Zh3TCX9
 
 
 ### Algorithms and Uncertainty
@@ -441,7 +561,7 @@ Prof. Thomas Kesselheim
 - Markov Decision Processes
 - Stochastic and Robust Optimization
 
-🎥 Lectures: https://lnkd.in/dUZbeSBh
+🎥 Lectures: https://www.youtube.com/playlist?list=PLyzcvvgje7aDZRFMJZgaVgOW5t5KLvD1-
 
 
 ### Information Geometry & its Applications
@@ -450,7 +570,7 @@ University of California, Prof. Melvin Leok, San Diego, 2022
 ![image](https://github.com/user-attachments/assets/cb8e22e4-8fdc-4461-aa64-36131aaf7aed)
 
 
-🎥 Lectures: https://lnkd.in/drMa8kwe
+🎥 Lectures: https://www.youtube.com/playlist?list=PLHZhjPByiV3L94AeJ9FcK1yrnRDOt3Vit
 
 
 ### Advanced Scientific Computing  
@@ -476,9 +596,9 @@ High Performance Computing
 - Terrestrial Systems & Climate
 
 
-🎥 2024 Lectures (ongoing): https://lnkd.in/di9AMF8W   
-🎥 2023 Lectures: https://lnkd.in/dShK79Nc  
-🎥 2022 Lectures: https://lnkd.in/d-DtqtwR
+🎥 2024 Lectures (ongoing): https://www.youtube.com/playlist?list=PLmJwSK7qduwVAnNfpueCgQqfchcSIEMg9   
+🎥 2023 Lectures: https://www.youtube.com/playlist?list=PLmJwSK7qduwUBwrFn3SY8vi4AYa2rVTWH  
+🎥 2022 Lectures: https://www.youtube.com/playlist?list=PLmJwSK7qduwWyqcSEB45HOyxq--z8njix
 
 
 ### Deep Learning in Scientific Computing
@@ -493,7 +613,7 @@ ETH Zürich, Prof. Siddhartha Mishra, Dr. Benjamin Moseley, 2023
 - Fourier Neural Operators and Convolutional Neural Operators
 - Differentiable Physics
 
-🎥 Course lectures: https://lnkd.in/dQ2fX2-X
+🎥 Course lectures: https://www.youtube.com/playlist?list=PLJkYEExhe7rYY5HjpIJbgo-tDZ3bIAqAm
 
 
 ### Topology and Geometry  
@@ -501,7 +621,7 @@ Prof. Tadashi Tokieda
 
 ![image](https://github.com/user-attachments/assets/f33e4d2f-9aba-48fe-bec2-9e0fa8986a81)  
 
-🎥 Lectures: https://lnkd.in/dBMdFJnw
+🎥 Lectures: https://www.youtube.com/playlist?list=PLTBqohhFNBE_09L0i-lf3fYXF5woAbrzJ
 
 
 ### Deep Reinforcement Learning
@@ -518,7 +638,7 @@ Prof. Tadashi Tokieda
 - Uncertainty and RL
 - Transfer learning and meta learning
 
-🎥 Lectures(2021-2023): https://lnkd.in/dzvRMCaQ
+🎥 Lectures(2021-2023): https://www.youtube.com/playlist?list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps
 
 
 ### Information Theory
@@ -526,8 +646,8 @@ Harvard, Prof. Gregory Falkovich, 2022
 
 ![image](https://github.com/user-attachments/assets/4b999c80-13b6-4f30-8a66-81b87438f61c)  
 
-🎥 Lectures: https://lnkd.in/d3ubEZz7  
-📔 Textbook (Physical Nature of Information): https://lnkd.in/dnsYfTes
+🎥 Lectures: https://www.youtube.com/playlist?list=PLDEN2FPNHwVZKAFqfFl1b_NNAESTJwV9o  
+📔 Textbook (Physical Nature of Information): https://www.weizmann.ac.il/complex/falkovich/sites/complex.falkovich/files/uploads/PNI22.pdf
 
 
 ### Bayesian Statistics 
@@ -548,8 +668,8 @@ Virginia Tech,  Prof. Scotland Leman, 2023
 - Model Selection: Theory and Computational Approaches
 
 
-🎥 Video lectures for the 2023 course and also lectures for the past semesters: https://lnkd.in/dbWHtW_4  
-🎥 First lecture: https://lnkd.in/dj2eF5rG
+🎥 Video lectures for the 2023 course and also lectures for the past semesters: https://www.youtube.com/@lemanlectures8611/videos  
+🎥 First lecture: https://youtu.be/vHAoj0Q5Auw?si=68ymPihUCaAmvvgK
 
 
 ### Random Matrices and Machine Learning
@@ -557,7 +677,7 @@ Saarland University, Prof. Roland Speicher, 2023
 
 ![image](https://github.com/user-attachments/assets/d60af264-e703-4f35-9f5b-3f686b68b9ba)  
 
-🎥 Recorded videos (29 lectures): https://lnkd.in/dANfW7EC
+🎥 Recorded videos (29 lectures): https://youtube.com/playlist?list=PLY11JnnnTUCabY4nc0hKptrd5qEWtLoo2&si=9HLbybgfW6pBss88
 
 
 ### Computational Topology
@@ -579,7 +699,7 @@ University of Utah, Prof. Bei Wang, 2021
 - Topological data analysis for visualization (vector fields, topological structures)
 - Practical applications of TDA
 
-🎥 Playlist on YouTube (28 Lectures) : https://lnkd.in/d63Nsv78
+🎥 Playlist on YouTube (28 Lectures) : https://youtube.com/playlist?list=PLDZ6LA16SDbIvbgmCjcCuTA7mttfXjiec&si=FiadJKIdmKlJUIY7
 
 
 ### Optimal Transport
@@ -587,7 +707,7 @@ Prof. Brittany Hamfeldt
 
 ![image](https://github.com/user-attachments/assets/13feaab0-c34c-420f-ac97-27312dcca17b)  
 
-🎥 Video Lectures: https://lnkd.in/ddc-Qv8b
+🎥 Video Lectures: https://youtube.com/playlist?list=PLJ6garKOlK2qKVhRm6UwvcQ46wK-ciHbl&si=zeG5RCK_E04SRNww
 
 
 ### Group Theory
@@ -595,7 +715,7 @@ Prof. Richard Borcherds
 
 ![image](https://github.com/user-attachments/assets/4566a212-d4e8-49e6-9ffe-765f60beb12d)
 
-🎥 Lectures: https://lnkd.in/dEPHHiiE
+🎥 Lectures: https://www.youtube.com/@richarde.borcherds7998/playlists
 
 
 ### Manifold Learning, Optimization and Information Geometry
@@ -603,7 +723,7 @@ Politecnico di Milano 2022
 
 ![image](https://github.com/user-attachments/assets/59fde121-bf22-4d37-93a5-8bcef4a4af80)  
 
-🎥 Lectures: https://lnkd.in/gSgt7TMz  
+🎥 Lectures: https://youtube.com/playlist?list=PLvVaDdaHGtpesn2DHUo6ete-1pPhT1xzj&si=24WgTbFLChWMaJRx  
 
 
 ### Random Matrix Theory
@@ -611,7 +731,7 @@ King's College London, Dr Pierpaolo Vivo
 
 ![image](https://github.com/user-attachments/assets/61e34a9c-3d6a-4c10-9ef4-bb9941e6a7bf)  
 
-🎥 Lectures : https://lnkd.in/duEnYDRU
+🎥 Lectures : https://www.youtube.com/playlist?list=PLyHAvCibkccQEFYXdM6r8WG4GQULRKmRA
 
 
 ### Topological Data Analysis
@@ -619,7 +739,7 @@ Colorado State University, Henry Adams, 2021
 
 ![image](https://github.com/user-attachments/assets/2da24886-19c9-4db3-9540-ede0b4b7b2e3)  
 
-🎥 Videos (27 short lectures) : https://lnkd.in/d8AJ2kKD
+🎥 Videos (27 short lectures) : https://www.math.colostate.edu/~adams/teaching/dsci475spr2021/
 
 
 ### Matrix Calculus for Machine Learning and Beyond
@@ -627,7 +747,7 @@ MIT,  Prof. Alan Edelman, Prof. Steven G. Johnson, 2023
 
 ![image](https://github.com/user-attachments/assets/7f6bff74-51ef-4caa-8f6c-62cd2d02abfe)  
 
-🎥 YouTube (8 lectures): https://lnkd.in/dEwFJ-ww
+🎥 YouTube (8 lectures): https://youtube.com/playlist?list=PLUl4u3cNGP62EaLLH92E_VCN4izBKK6OE&si=rNoLocGXOEXBQjMH
 
 
 ### Probabilistic Machine Learning
@@ -658,8 +778,8 @@ University of Tübingen, Dr. Philipp Hennig, 2023
 - Variational Inference
 
 
-🎥 Lectures (25 lectures): https://lnkd.in/dBKgc2vM  
-📔 Slides: https://lnkd.in/d7Tq-zf9  
+🎥 Lectures (25 lectures): https://youtube.com/playlist?list=PL05umP7R6ij2YE8rRJSb-olDNbntAQ_Bx&si=qivnfDBYjFOu1TOk  
+📔 Slides: https://github.com/philipphennig/Probabilistic_ML  
 
 
 ### Discrete Differential Geometry
@@ -667,14 +787,14 @@ Carnegie Mellon Universit
 
 ![image](https://github.com/user-attachments/assets/baf9fc2a-14a8-4627-b42c-651fc81d72f9)
 
-🎥 Lectures : https://lnkd.in/gvtWm5Xd
+🎥 Lectures : https://www.youtube.com/playlist?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS
 
 ### Applied Numerical Algorithms
 MIT, Prof. Justin Solomon, 2023
 
 ![image](https://github.com/user-attachments/assets/9dbd7f68-2c58-447b-a93f-f6ee483b7118)
 
-🎥 Lectures : https://lnkd.in/eq_jtkeb
+🎥 Lectures : https://www.youtube.com/watch?v=Xt4p5gk24ss
 
 ### Shape Analysis 
 MIT, Prof. Justin Solomon
