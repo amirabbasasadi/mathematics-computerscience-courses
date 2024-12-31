@@ -5,6 +5,15 @@ A collection of some useful mathematics and computer science courses
 ## Courses
 
 
+### Machine Learning with Graphs
+Prof. Jure Leskovec, Stanford University, 2021
+
+![image](https://github.com/user-attachments/assets/bc56580c-b0a2-459f-846a-0d6f40ac2f74)
+
+
+🎥 Lectures: https://youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn
+
+
 ### Reinforcement Learning Theory 
 Prof. Csaba Szepesvári, University of Alberta, 2022  
 ![image](https://github.com/user-attachments/assets/ec632aea-95ad-4077-ae44-796af53b9326)  
