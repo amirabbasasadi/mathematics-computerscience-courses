@@ -4,6 +4,29 @@ A collection of some useful mathematics and computer science courses
 
 ## Courses
 
+## Deep Unsupervised Learning
+Prof. Pieter Abbeel, UC Berkeley, 2024
+
+![image](https://github.com/user-attachments/assets/eb151b94-f8fe-4bb5-8d0d-28525eee6532)
+
+
+- Autoregressive Models
+- Flow Models
+- Latent Variable Models & Variational AutoEncoders (VAEs)
+- Generative Adversarial Networks (GANs)
+- Diffusion Models
+- Self-Supervised Learning
+- Large Language Models (LLMs)
+- Generative Video
+- Semisupervised Learning & Unsupervised Distribution Alignment
+- Generative Modeling for Science
+- Neural Radiance Fields
+- Multimodal Models
+- Parallelization
+
+🎥 Lectures: https://youtube.com/playlist?list=PLwRJQ4m4UJjPIvv4kgBkvu_uygrV3ut_U
+
+
 ## Deep Generative Models
 Prof. Stefano Ermon, Stanford University, 2023
 
