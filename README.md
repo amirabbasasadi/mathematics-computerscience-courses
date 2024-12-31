@@ -489,8 +489,37 @@ Stanford, Prof. Tim Roughgarden
 - Pure NE and PLS-Completeness 
 - Mixed NE and PPAD-Completeness
 
-
 🎥 Lectures: https://youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4&si=7r52R_RF8miNr_N2  
+
+
+### Advanced Mechanism Design
+Stanford, Prof. Tim Roughgarden  
+
+![image](https://github.com/user-attachments/assets/ce009b28-9401-4358-b553-92e9126aa2cd)
+
+- Ascending and Ex Post Incentive Compatible Mechanisms
+- Unit-Demand Bidders and Walrasian Equilibria
+- The Crawford-Knoer Auction
+- The Clinching Auction
+- The Gross Substitutes Condition
+- Gross Substitutes-Welfare Maximization in Polynomial Time
+- Submodular Valuations
+- MIR and MIDR Mechanisms
+- MIDR Mechanisms via Scaling Algorithms
+- Coverage Valuations and Convex Rounding
+- Undominated Implementations and the Shrinking Auction
+- Bayesian Incentive-Compatibility
+- Black Box Reductions
+- The Price of Anarchy in Simple Auctions
+- The Price of Anarchy of Bayes-Nash Equilibria
+- The Price of Anarchy in First-Price Auctions
+- Demand Reduction in Multi-Unit Auctions Revisited
+- Beyond Smoothness and XOS Valuations
+- Multi-Parameter Revenue-Maximization
+- Interim Rules and Border’s Theorem
+- Characterization of Revenue-Maximizing Auctions
+
+🎥 Lectures: https://youtube.com/playlist?list=PLEGCF-WLh2RI77PL4gwLld_OU9Zh3TCX9
 
 
 ### Algorithms and Uncertainty
