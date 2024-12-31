@@ -4,11 +4,19 @@ A collection of some useful mathematics and computer science courses
 
 ## Courses
 
-## Deep Unsupervised Learning
+### High-Dimensional Probability
+Roman Vershynin
+
+![image](https://github.com/user-attachments/assets/37f50b44-67e2-4136-abb8-a74857ca56ae)
+
+🎥 Lectures: https://youtube.com/playlist?list=PLPjEEUWIWhQV7X6dXfrVP3w0KBBLBVJ0j  
+📔 Textbook : https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.html
+
+
+### Deep Unsupervised Learning
 Prof. Pieter Abbeel, UC Berkeley, 2024
 
 ![image](https://github.com/user-attachments/assets/eb151b94-f8fe-4bb5-8d0d-28525eee6532)
-
 
 - Autoregressive Models
 - Flow Models
@@ -27,7 +35,7 @@ Prof. Pieter Abbeel, UC Berkeley, 2024
 🎥 Lectures: https://youtube.com/playlist?list=PLwRJQ4m4UJjPIvv4kgBkvu_uygrV3ut_U
 
 
-## Deep Generative Models
+### Deep Generative Models
 Prof. Stefano Ermon, Stanford University, 2023
 
 ![image](https://github.com/user-attachments/assets/ead0b70a-a22f-4c6b-b008-45c961b0b078)
